@@ -1,6 +1,21 @@
 ---
 title: "Juice"
 date: 2026-03-01T14:32:00-05:00
-draft: true
+draft: false
 ---
 
+We are at war again. But did we ever stop? What does the term even mean? When was the last time you read an official declaration. The Global War on Terror started in 2001. I can periodize it. I can tell you about 9/11 and our invasion of Afghanistan. I can tell you about our preemptive strikes against Iraq, alleged WMDs and vague gestures towards an Al Qaeda connection. The shift towards covert ops under Obama. Predator drones, special force kill teams, Guantanamo. The rise of ISIS, the withdrawal from Afghanistan. I can name you operations. Enduring Freedom, Desert Storm. Start dates, end dates. But I cannot tell you if this war ever ended. There has always been an eternal enemy. Globalized, ephemeral, supported by rogue state and non-state actors alike.“Us” on one hand, the good guys, lovers of democracy, and “them” on the other, a malevolent all-permeating force hellbent on destroying our freedoms, our very way of life.
+
+This time, as the saying goes, this time is different. And indeed it is. Not in its ends but in means. There is no need to sell the war, as we have so often done. No need to build a normative case, to talk about human rights and civil society. No need to sustain a narrative. To engage in case-making. Attention spans and media cycles are far too short. Instead, we move with the media cycle. Lightning fast smash and grabs. Forget the hearts and minds, there are none to be won. Easy wins. Quick kills. And then we pump the numbers. Juice ourselves. Retweets, podcasts, group chats. Straight into my veins. Tomorrow we move on. Inflation, tariffs, AI. Newsletters in my inbox, The Daily in my ears. The days are long but the years are short.
+
+What happened in Iraq? What relationship did Saddam have with Al Qaeda? How did the Taliban factor into all of this. Most of the 9/11 hijackers were Saudi, why are they currently a “strategic ally”? What’s the difference between Al Zawahiri and Al-Baghdadi? What’s a Sunni, a Shia and a Sufi? Can you answer these questions? Does it matter? They’re all bad. They hate women, they hate gays, they hate us. Don’t sweat the details, the Super Bowl is on and Bad Bunny is going to do something cool.
+
+What do we know of war? Did our fathers, sons, husbands, brothers, get called up and shipped off to die. Our Wives and daughters shouldered with the burdens of post-traumatic stress? Of course not. Recruiters don’t come to my door. I make powerpoints and door-dash dinner. I’m not desperate. Better some poor fuck in Chattanooga. I’m too productive and important. He could use the GED classes.
+
+Instead you and I get to experience war vicariously. Audio, video, text and plenty of talking heads. Thomas Friedman op-eds. A tragic Vice documentary, This is what winning looks like, of a USMC commander realizing that the Afghan police forces he needs to work with are engaging in Bacha Bazi, but is powerless to stop it. Anand Gopal’s book, No Good Men Among The Living, documenting the devastating costs of war on the everyday lives of Afghanis. The bitter power struggles for access to American weapons, aid, and funding. Quagmires, where the distinctions between good guy and bad are so blurred, the very terms lose all meaning. 
+
+But these miss the moments of ecstasy. Iraq and Afghanistan levelled in weeks - Bush standing triumphant aboard the USS Abraham Lincoln; “Mission Accomplished”. The Bin Laden Raid - 40 minutes, 2 movie deals one Netflix documentary series. Soleimani’s assassination -  A split-second drone strike. 300 podcasts by Navy Seals. Protein powder. The Warrior Ethos: Lessons from Combat Applied to Real Estate. The whole nine. What didn’t work was everything that came after. Regime change, prolonged occupation, coalition building blah blah blah. We could never sell it. The question of “what are we doing over there” keeps coming up.
+
+Foolish are those who say “we” never learn. We have. And this time, we are going to do all the winning and none of the losing. We will not stay and get bogged down in an occupation. Targeted strikes only, made for TV, where we do what we do best. Precision missiles, drone strikes and special forces raids. Kill counts. Decapitated terror cells. High value targets. Pump the numbers. Payloads, bunker busters, discharge. Psychosexual longing. Our hard cocks, their hapless mouths. And you will cheer, and you will love it, because we are finally winning again. Because for us, the action is the juice
+
+![](/heat.jpg)

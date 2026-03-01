@@ -13,10 +13,10 @@
   <div class="site-wrapper">
 
     <header class="site-header">
-      <a class="site-title" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+      <a class="site-title" href="{{ site.Home.RelPermalink }}">{{ .Site.Title }}</a>
       <p class="site-tagline">{{ .Site.Params.description }}</p>
       <nav class="site-nav">
-        <a href="{{ "/" | relURL }}">All posts</a>
+        <a href="{{ site.Home.RelPermalink }}">All posts</a>
         <span class="nav-sep">·</span>
         <a href="{{ "tags/" | relURL }}">Topics</a>
       </nav>
